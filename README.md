@@ -4,11 +4,13 @@ Munkhtamir Ganbat</h1>
 
 - 📚 I am currently working at <a href="https://m-bank.mn/" target="_blank"> M bank</a>
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I’m currently Working on Spring Reactive projects.
 
-- 🏙 Creator of the [M24.mn](https://m24.mn) organization
+- 🌱 I’m currently learning SpringBoot && Next.js 13
 
-- 📫 How to reach me **khangaikhuu@gmail.com**
+- 📫 How to reach me **munkhtamir.g@m-bank.mn**
+
+---
 
 ![MunkhtamirG's GitHub stats](https://github-readme-stats.vercel.app/api?username=munkhtamirg&count_private=true&show_icons=true&theme=radical)
 
